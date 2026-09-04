@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+
+linkedin.pdf
+summary.txt
+details.txt
+unknown_questions.txt
+
+*.log
+.DS_Store
